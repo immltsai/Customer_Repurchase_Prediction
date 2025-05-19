@@ -1022,9 +1022,7 @@ segmentation_features = high_potential_customers[['recency_days', 'order_count',
 segmentation_features.fillna(0, inplace=True)
 ```
 
-特徵標準化（Standardization）
-
-K-Means 對數值範圍很敏感
+特徵標準化（Standardization）> 因為 K-Means 對數值範圍很敏感
 
 
 ```python
