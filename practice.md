@@ -25,9 +25,9 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
 
 [3. 漏斗分析](#3-漏斗分析)
 
-[4. 建立預測模型](#4-建立預測模型-(LightGBM))
+[4. 建立預測模型](#4-建立預測模型-LightGBM)
 
-[5. 客戶分群分析](#5-客戶分群分析-(Audience Segmentation))
+[5. 客戶分群分析](#5-客戶分群分析-Audience-Segmentation)
 
 [6. 結論與建議](#6-結論與建議)
 
